@@ -35,16 +35,5 @@ const Square = styled.div`
 
 `;
 
-// function Square(props) {
-//     return (
-//         <>
-//             <div 
-//             className={`${st["square_child"]}`}
-//             style={props.style}
-//             >
-//             </div>
-//         </>
-//     );
-// }
 
 export default Square;

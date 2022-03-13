@@ -1,0 +1,12 @@
+
+.menu_item{
+    color: aliceblue;
+    font-size: 12px;
+    padding: 7px;
+}
+.line{
+    width: 100%;
+    background-color: aliceblue;
+    height: 0.07px;
+    opacity: 0.5;
+}
