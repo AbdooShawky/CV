@@ -19,7 +19,7 @@ function Squares() {
           <Square duration={15} style={{left:0 ,width:250 ,height:250}}/>
         </div>
         <div className={`${st["square_parent"]} `} >
-          <Square duration={40} style={{left:-150 ,width:250 ,height:250}}/>
+          <Square duration={40} style={{left:0 ,width:250 ,height:250}}/>
         </div>
       </div>
     </>
